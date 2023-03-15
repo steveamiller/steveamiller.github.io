@@ -10,5 +10,4 @@ https://github.com/steveamiller
 
 ## Contact
 
-stephen19@vt.edu
-stephen3miller@gmail.com
+stephen19@vt.edu | stephen3miller@gmail.com
